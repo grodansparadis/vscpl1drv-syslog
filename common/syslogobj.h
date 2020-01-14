@@ -1,6 +1,6 @@
 // syslogobj.h: interface for the CSysLogObj class.
 //
-// Copyright (C) 2000-2015
+// Copyright (C) 2000-2020
 // Ake Hedman, Grodans Paradis AB, <akhe@grodansparadis.com>
 //////////////////////////////////////////////////////////////////////
 
