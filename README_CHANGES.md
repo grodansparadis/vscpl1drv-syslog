@@ -7,6 +7,7 @@ tagged, rename **Unreleased** to the version and date, and start a new
 
 ## Unreleased
 
+- The vscp submodule (vscp) points to the latest vscp master (d75d4f5c6)
 - Updated copyright (af4cc3c)
 - Added submodule (ed6a131)
 - Moved from main repo. (5669be2)
